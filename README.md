@@ -36,7 +36,9 @@ Seluruh manajemen konfigurasi, optimasi skrip Linux, hingga penyusunan dokumenta
 ---
 
 ### 📸 Dokumentasi Fisik
-![Setup Home-Lab](fisik Dell Server.jpg)
+![Setup Home-Lab](fisik-Dell-Server.jpg), 
+(fisik-Asus-workstation.jpg), 
+(spek-server-port.png)
 *Visualisasi infrastruktur Mohef Home-Lab yang dikelola secara mandiri.*
 
 ---
