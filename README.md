@@ -34,4 +34,10 @@ Server ini menjalankan berbagai layanan untuk mendukung produktivitas dan pemant
 Seluruh manajemen konfigurasi, optimasi skrip Linux, hingga penyusunan dokumentasi ini dilakukan melalui pendekatan **AI-Augmented workflow**. Hal ini memungkinkan pemeliharaan infrastruktur yang kompleks secara mandiri dengan standar efisiensi industri.
 
 ---
+
+### 📸 Dokumentasi Fisik
+![Setup Home-Lab](fisik Dell Server.jpg)
+*Visualisasi infrastruktur Mohef Home-Lab yang dikelola secara mandiri.*
+
+---
 *Dokumentasi ini dikelola secara berkala oleh Mohef Tech untuk memastikan skalabilitas infrastruktur.*
